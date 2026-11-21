@@ -10,9 +10,6 @@
 - **LLM agents** — 자연어 요청을 도구 호출과 연결하고 Docker 환경에서 실행 흐름을 검증합니다.
 - **Evaluation** — 보기 순서처럼 평가 조건을 하나씩 바꿔 모델이 실제로 고른 답이 달라지는지 비교합니다.
 
-### Public work
-
-- **[PAISE Lab](https://github.com/it0615/paise-lab)** — 컴퓨터 비전과 영상 프라이버시 연구를 소개하는 연구실 웹사이트 코드.
 
 `Python` · `FastAPI` · `PostgreSQL` · `pgvector` · `Docker`
 
